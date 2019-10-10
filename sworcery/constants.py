@@ -14,5 +14,5 @@ screen_height = 720
 
 # Asset directories
 
-art_dir = 'C:\\Users\\alexa_000\\Documents\\PyProjects\\Sworcery\\assets\\art\\'
-music_dir = 'C:\\Users\\alexa_000\\Documents\\PyProjects\\Sworcery\\assets\\music\\'
+art_dir = '../assets/art/'
+music_dir = '../assets/music/'
